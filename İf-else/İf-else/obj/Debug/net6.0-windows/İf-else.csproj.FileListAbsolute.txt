@@ -1,0 +1,16 @@
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\obj\Debug\net6.0-windows\İf_else.Form1.resources
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\obj\Debug\net6.0-windows\İf-else.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\obj\Debug\net6.0-windows\İf-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\obj\Debug\net6.0-windows\İf-else.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\obj\Debug\net6.0-windows\İf-else.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\obj\Debug\net6.0-windows\İf-else.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\bin\Debug\net6.0-windows\İf-else.exe
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\bin\Debug\net6.0-windows\İf-else.deps.json
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\bin\Debug\net6.0-windows\İf-else.runtimeconfig.json
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\bin\Debug\net6.0-windows\İf-else.dll
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\bin\Debug\net6.0-windows\İf-else.pdb
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\obj\Debug\net6.0-windows\İf-else.dll
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\obj\Debug\net6.0-windows\refint\İf-else.dll
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\obj\Debug\net6.0-windows\İf-else.pdb
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\obj\Debug\net6.0-windows\İf-else.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project8\İf-else\İf-else\obj\Debug\net6.0-windows\ref\İf-else.dll
